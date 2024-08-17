@@ -1,6 +1,6 @@
 # %% [markdown]
 # This file is part of Google Zero Day In the Wild Security Vulnerabilities Analysis Project. 
-# This script aims to analyze the time taken from the discovery of a vulnerability to its patching across different vendors. Identify which vendors are quicker or slower in addressing security issues.
+# This script aims to analyze the time taken from the discovery of a vulnerability to its patching across different vendors, identify which vendors are quicker or slower in addressing security issues.
 
 
 # Required Imports
